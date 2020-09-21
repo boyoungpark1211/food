@@ -1,0 +1,33 @@
+<meta name="subject" content="야먹자! 다 먹고 살자는거 아니겠어?">
+  <meta name="description" content="대학생들의 리얼 후기">
+  <meta name="keywords" content="숙명여대, 한국외대, 가로수길">
+  <meta property="og:url" content="https://www.yamukja.com/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="야먹자! 다 먹고 살자는거 아니겠어?">
+  <meta property="og:description" content="대학생들의 리얼 후기">
+  <meta property="og:image" content="이미지주소삽입">
+  <title>야먹자! 다 먹고 살자는거 아니겠어?</title>
+<body class="home_page" onunload="" style="overflow: visible;">
+<main class="pg-main">
+  <div class="black_screen"></div>
+  <article class="contents main-padding">
+    <header class="main-header" style="background-image: url('file:///Users/boyoungpark/Desktop/%E1%84%91%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%92%E1%85%A2%E1%86%B7%E1%84%87%E1%85%A5%E1%84%80%E1%85%A5%20%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB.png');">
+<div>
+  <p class="title">대학생들의 리얼 후기</p>
+  <h1 class="title">야먹자</h1>
+  <p class="options">
+    <a href="#">Download app</a>
+    <a href="#">add/Claim restaurant</a>
+    <a href="#">Become a holic</a>
+  </p>
+  <fieldset class="main-search">
+    <legend>전체 검색</legend>
+    <label class="search-word" for="main-search">
+      <span class="icon">검색 :</span>
+      <input id="main-search" class="HomeSearchInput" name="main-search" type="text" maxlength="50" placeholder="지역, 식당 또는 음식" autocomplete="off" onclick="trackEvent('CLICK_SEARCH_MAIN')">
+      <span class="clear_btn">CLEAR</span>
+    </label>
+    <input class="btn-search" type="submit" value="검색" onclick="trackEvent('CLICK_KEYWORD_SEARCH');">
+  </fieldset>
+</div>
+    </header>
